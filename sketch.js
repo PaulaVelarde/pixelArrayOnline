@@ -5,7 +5,7 @@
  * Paula García
  * 
  *
- * URL: 
+ * URL:https://paulavelarde.github.io/pixelArrayOnline/ 
  */
 
 
